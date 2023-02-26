@@ -112,10 +112,6 @@ namespace PracticasBucles
 
             Console.WriteLine($"Correcto! Has necesitado {intentos} intentos");
 
-            //
-
-
-
         }
     }
 }
